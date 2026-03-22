@@ -1,10 +1,10 @@
 # Hey, I'm Arun
 
-I build CLI tools that I actually use to run my business — then open-source them.
+Former Staff Data Scientist at the parent company of Adblock and Adblock Plus. Background in mathematics (Warwick). Currently based in Bangkok running an AI consultancy — [trybottl.com](https://trybottl.com).
 
-Staff Data Scientist → founder. Math @ Warwick. Currently in Bangkok training for a Muay Thai fight and building AI tools.
+This is where I open-source the tools I use to run my business. If you find something useful, take it.
 
-## What I'm building
+## Tools
 
 | Tool | What it does |
 |------|-------------|
@@ -12,8 +12,4 @@ Staff Data Scientist → founder. Math @ Warwick. Currently in Bangkok training 
 | [pitwall-f1](https://github.com/arun1125/pitwall-f1) | F1 race analytics — 1.8M rows of lap/pit/session data in SQLite |
 | dubot | Fed [@thedulab](https://x.com/thedulab)'s 627 tweets into an LLM and extracted his voice patterns *(coming soon)* |
 
-## The thesis
-
-The agent is the interface. Every tool should be a CLI that an AI agent can use. No dashboards, no GUIs — just composable commands.
-
-**[trybottl.com](https://trybottl.com)** · **[@explosivearun](https://x.com/explosivearun)**
+**[trybottl.com](https://trybottl.com)** · **[@arun1995plus1](https://x.com/arun1995plus1)**
